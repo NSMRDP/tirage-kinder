@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Dommage… — Tirage Kinder</title>
+  <meta name="description" content="Résultat du tirage : pas de gain cette fois" />
+  <style>
+    body { margin:0; font-family: system-ui, Arial, sans-serif; background:#fff8f0; color:#2b2b2b; }
+    main { max-width:680px; margin:12vh auto 8vh; padding:0 1.2rem; text-align:center; }
+    h1 { font-size:2rem; margin:.2rem 0 .4rem; }
+    p { font-size:1.1rem; }
+    .btn { display:inline-block; margin-top:1.2rem; padding:.75rem 1.1rem; background:#6b4e3d; color:#fff; border:0; border-radius:.6rem; text-decoration:none; font-weight:600; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>😢 Pas de gain cette fois…</h1>
+    <p>Mais le vrai bonheur, c’est un moment Kinder à partager 🍫💛</p>
+    <a classhtmlRetenter sa chance</a>
+  </main>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Voyage en Laponie — Tirage Kinder</title>
+  <meta name="description" content="Résultat du tirage : Voyage en Laponie" />
+  <style>
+    :root { color-scheme: light; }
+    body { margin:0; font-family: system-ui, Arial, sans-serif; background:#fff8f0; color:#2b2b2b; }
+    main { max-width:680px; margin:12vh auto 8vh; padding:0 1.2rem; text-align:center; }
+    h1 { font-size:2rem; margin:.2rem 0 .4rem; }
+    p { font-size:1.1rem; }
+    .btn { display:inline-block; margin-top:1.2rem; padding:.75rem 1.1rem; background:#f0541e; color:#fff; border:0; border-radius:.6rem; text-decoration:none; font-weight:600; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>🎅 Félicitations !</h1>
+    <h2>Voyage en Laponie</h2>
+    <p>Vous remportez un voyage magique en Laponie pour rencontrer le Père Noël !</p>
+    ./index.htmlRejouer / revenir à l’accueil</a>
+  </main>
+</body>
+</html>
